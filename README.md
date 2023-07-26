@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
   
 <div align="center">  
   
-![BaraaBasim's Stats](https://github-readme-stats.vercel.app/api?username=BaraaBasim&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<!-- ![BaraaBasim's Stats](https://github-readme-stats.vercel.app/api?username=BaraaBasim&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
 ![BaraaBasim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaraaBasim&theme=vue-dark&hide_border=true)
 </div>
